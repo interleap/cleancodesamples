@@ -1,4 +1,4 @@
-package co.interleap.samples;
+package co.interleap.samples.datastructureobject;
 
 public class PointDataStructure {
   public double x;
