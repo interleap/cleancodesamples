@@ -1,0 +1,17 @@
+build
+.DS_Store
+out
+.classpath
+.project
+.settings/
+bin/
+
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+
+.idea
+*.iws
+*.iml
+*.ipr
